@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Question Detail Component mapStateToProps Should not regress 1`] = `
+<div>
+  <h3
+    className="mb-2"
+  >
+    Some Title
+  </h3>
+  <div>
+    <div
+      className="mb-3"
+    >
+      <div>
+        <code>
+          tag1
+        </code>
+        <code>
+          tag2
+        </code>
+      </div>
+    </div>
+    <div>
+      <p>
+        Some Body
+      </p>
+    </div>
+    <div>
+      0
+       Answers
+    </div>
+  </div>
+</div>
+`;
